@@ -7074,16 +7074,6 @@
     "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei1hxygpjzewvzp6jzlx6chp09k5384adskjhs9ammhyqma3x767hpqmglq4l/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
-    "id": "sei1hxygpjzewvzp6jzlx6chp09k5384adskjhs9ammhyqma3x767hpqmglq4l",
-    "name": "SEIEAGLE",
-    "symbol": "SEIEAGLE",
-    "decimals": "6",
-    "type": "cw20",
-    "circ_supply_api": "1000000000",
-    "total_supply": "1000000000",
-    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIKkTmzfQIpPPRwDR2HduiW4nJormvdat7gA&usqp=CAU"
-  },
-  {
     "id": "sei1hychcfpz2urukyuak00d8l5t5a5g6at7ecf3z77mvp3sjvm6unsqsdxzc9",
     "name": "SEIMARKET",
     "symbol": "SEIMARKET",
